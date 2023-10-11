@@ -1,0 +1,130 @@
+Ankita Choudhary
+Technical Lead
+xyz@abc.co.in
+phone- 7675349382
+Professional Summary
+Accomplished technical professional offering 7.5 years of extensive experience in successfully designing and developing IT solutions, especially for banking and healthcare agencies following their enterprise grade development processes. Ankita is an expert in designing high-performance, secure, and scalable APIs along with exposure in architecture, design, development, and maintenance key components of APIs, integrating 3rd-party solutions and system deployment and design patterns.
+She has experience in API products like Google Apigee, Red Hat 3scale APIM, IBM WebSphere DataPower, IBM WebSphere Transformation Extender (ITX) technologies. 
+Education
+Bachelor of Technology, Electronics and Electrical Engineering, KIIT University, Bhubaneswar, India
+Training and Certifications
+IBM Certified SOA Associate [2008]
+IBM Certified Application Developer - WebSphere Transformation Extender V8.4
+IBM Certified Integration Developer - WebSphere Enterprise Service Bus V7.0
+Skill
+Areas of competencies includes end to end API delivery which includes Planning, Design, Development, Testing, and Delivery of APIs to production.
+Programming Languages
+JavaScript, XSLT, XML, Gateway Script, Python
+APIs and middleware
+REST, JSON, SOAP, Web Services, TLS, Oauth 2.0, One-way SSL, Two-way SSL, Authentication and Authorization, Mediation
+Database
+SQL Server, Redis
+Tools and platforms
+Jenkins, JIRA, Visual Studio, Confluence, Postman, SharePoint, SOAPUI, RFHUtil, Bitbucket, Bamboo, Eclipse
+Recent Projects
+Project name 
+APIM solution using RedHat 3Scale
+Client
+One of the leading banking/financial service providers in Central and Eastern Europe
+Duration
+May 2021 – till date
+Description
+Project involved building APIs based infrastructure using RedHat 3scale APIM considering the integration with existing infrastructure stack like Oracle service bus and RedHat container platform.
+Technology Stack
+RedHat 3Scale APIM, JSON, XML, Swagger, JIRA, Bitbucket, Jenkins
+Responsibilities
+Determine project integration requirements and create development work schedules for the team.
+Analyse existing operations and scheduled training sessions and meetings to discuss improvements and groom up team to be an individual contributor.
+Prepared and designed Swagger definitions for the proposed APIs.
+Built multiple APIs establishing successful integration with backends like oracle service bus and RedHat container platform
+Exploring RedHat 3scale CLI that is Toolbox and integrating it with CI/CD pipeline
+Customizing Developer portal as per client’s need which helps in consumer onboarding 
+Contributing on the API development script automation to deploy APIs in the bulk
+Working with team on API Test Automation using Karate framework
+Involved in end-to-end testing of the complete application.
+Helped team members on critical development and issue resolution to reduce the overall surge on the team members.
+Project name 
+Migration of BPM Applications
+Client
+One of the leading health insurance companies of the US Government agency
+Duration
+Mar 2019 - Apr 2021
+Description
+Project involved migration of all BPM services to microservices. This saved lot of revenue as BPM is costly tool with high license cost.
+Technology Stack
+Google Apigee API Proxy, JSON, XML, Swagger, JIRA, Bitbucket, Bamboo
+Responsibilities
+Determined project integration requirements and developed middleware development work schedules for the team.
+Prepared and designed Swagger for the proposed APIs.
+Built multiple API proxies with complex transformations and security measures. 
+Involved in end-to-end testing of the complete application.
+Helped team members on critical development and issue resolution to reduce the overall surge on the team members.
+Project name
+Mainframe to Java Migration Project
+Client
+One of the leading health insurance companies of the US Government agency
+Duration
+Nov 2018 – Feb 2019
+Description
+Project involved creating new microservices based on Cobol copybook.
+Technology Stack
+IBM WebSphere data power, IBM WTX, Jenkins, Bitbucket, Bamboo, SOAP Service Integration, XML, XSD, XSLT
+Responsibilities
+Responsible for middleware integration which involves onboarding new consumer to DataPower layer and coordination with different teams.
+Liaised with team members, management, and clients to ensure projects are completed to standard by having peer programming, code review and analysis.
+Involved in development activity of creating new Web Services (WSP, MPGW and XML firewall), testing, deployment, and promotion to production. 
+Applied different security measures using Message Signing with Digital Signature for Message level Authentication (AAA) along with SSL.
+Used XSLT transformation and IBM WTX for mapping
+Showcased the standards and best practices of development and implementation to the team members.
+Project name 
+Credit Card SOA SQP Project
+Client
+One of the leading banking companies of the US Government agency
+Duration
+June 2017- Oct 2018
+Description
+Project involved implementation of DataPower Web services to provide a proxy layer for security and transformation of message.
+Technology Stack
+IBM WebSphere DataPower, IBM WTX, JSON, XML, WSDL, Swagger, JIRA, Confluence
+Responsibilities
+Worked for the implementation of DataPower Web services. Handled request in soap, non xml, xml over rest format.
+Created and customized the business SOA services real time with reusable for the business process like Inquiry, Update, MQ, Stored Procedure services and XML firewalls. 
+Applied Transformation Logic like XSLT and WTX files.
+Enabled Third party Interaction by SSL Authentication for HTTPS Connection both Forward and Reverse Crypto Profiles.
+Involved in creating documentation and working with onsite team for code review, technical testing, and approval. Also created progress reports and delivering presentations to the relevant stakeholders
+Project name
+Blue3 integration project
+Client
+One of the leading banking companies of the New Zealand Government agency
+Duration
+Mar 2014 – May 2017
+Description
+Project involved building a new architecture for IBM data power by migrating DataPower services to microservices and then deploying to actual appliance by building automated CI/CD pipeline.
+Technology Stack
+IBM WebSphere data power, IBM WTX, Jenkins, SVN, Crucible review, node JavaScript, Redis, JavaScript, SOAP Service Integration, XML, XSD
+Responsibilities
+Completed end to end project development coordinating all stakeholders. Stayed for 3 months on client location for supporting production deployment.
+Involved in development of MOD (Micro services) using NPM in the new architecture along with configuring Jenkins’s pipeline for deployment to higher environment and continuous integration.
+Used IBM WTX for mapping and transforming different message format.
+1 / 2
+skill profile_template
+ node JavaScript, Redis, JavaScript, SOAP Service Integration, XML, XSD
+
+Responsibilities
+
+
+
+Completed end to end project development coordinating all stakeholders. Stayed for 3 months on client location for supporting production deployment.
+
+Involved in development of MOD (Micro services) using NPM in the new architecture along with configuring Jenkins’s pipeline for deployment to higher environment and continuous integration.
+
+Used IBM WTX for mapping and transforming different message format.
+
+
+
+
+
+
+
+1 / 2
+skill profile_template
